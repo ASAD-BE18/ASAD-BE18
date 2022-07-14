@@ -1,4 +1,4 @@
-<h1 align="center">Hi Guys 👋, I'm Asad Majeed</h1>
+<h1 align="center">Hi there 👋, I'm Asad Majeed</h1>
 <h3 align="center">
 	A passionate Programmer and Machine Learning Engineer from Pakistan<br>
 </h3>
