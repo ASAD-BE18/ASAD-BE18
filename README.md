@@ -112,55 +112,19 @@
 
 <h3> Connect with Me </h3>
 <p align="center">
-	<a href="https://adityadees.blogspot.com">
-		<img src="https://img.shields.io/badge/-adityadees.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
+	<a href="https://www.linkedin.com/in/syedasad00/">
+		<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>
 	</a>
-	<a href="https://linkedin.com/in/adityadees">
-		<img src="https://img.shields.io/badge/-Aditya%20Dharmawan%20Saputra-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+	<a href="mailto:syedasad.majeed@gmail.com">
+		<img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"/>
 	</a>
-	<a href="mailto:adityadees@gmail.com">
-		<img src="https://img.shields.io/badge/-adityadees@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+	<a href="https://stackoverflow.com/users/16560826/asadmajeed">
+		<img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"/>
 	</a>
-	<a href="https://instagram.com/adityadees">
-		<img src="https://img.shields.io/badge/-@adityadees-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-	</a>
-	<a href="https://stackoverflow.com/users/7590238/adityadees">
-		<img src="https://img.shields.io/badge/-@adityadees-F48024?style=flat-square&logo=stackoverflow&logoColor=white"/>
-	</a>
-	<a href="https://youtube.com/c/adityadees">
-		<img src="https://img.shields.io/badge/-@adityadees-C11A21?style=flat-square&logo=Youtube&logoColor=white"/>
-	</a>
-	<a href="https://facebook.com/ds.aditya">
-		<img src="https://img.shields.io/badge/-Aditya Dees-3A5894?style=flat-square&logo=Facebook&logoColor=white"/>
-	</a>
-	<a href="https://medium.com/@adityadees">
-		<img src="https://img.shields.io/badge/-@adityadees-1877F2?style=flat-square&logo=Medium&logoColor=white"/>
-	</a>
-	<a href="https://independent.academia.edu/adityadees">
-		<img src="https://img.shields.io/badge/-@adityadees-1877F2?style=flat-square&logo=Academia&logoColor=white"/>
-	</a>
-	<a href="https://www.twitter.com/adityadees">
-		<img src="https://img.shields.io/twitter/follow/adityadees?style=flat-square&logo=Twitter&logoColor=white"/>
-	</a>
-	<a href="https://www.github.com/adityadees">
-		<img src="https://img.shields.io/github/followers/adityadees?style=flat-square&logo=Github&logoColor=white"/>
-	</a>
+	
 
 
 </p>
 
 > Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
 > -- Steve Jobs
-
-
-<p align="center">
-	<a href="https://github.com/adityadees/adityadees/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
-		<img src="https://img.shields.io/badge/-Write%20into%20my%20guest%20book-red?style=flat-round"/>
-	</a>
-	<a href="https://komarev.com/ghpvc/?username=adityadees">
-		<img src="https://komarev.com/ghpvc/?username=adityadees"/>
-	</a>
-	<br>
-	<br>
-	<a href="https://www.buymeacoffee.com/adityadees"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"  alt="adityadees" /></a>
-</p>
