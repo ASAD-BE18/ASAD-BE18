@@ -113,13 +113,13 @@
 <h3> Connect with Me </h3>
 <p align="center">
 	<a href="https://www.linkedin.com/in/syedasad00/">
-		<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>
+		<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" height="40"/>
 	</a>
 	<a href="mailto:syedasad.majeed@gmail.com">
-		<img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"/>
+		<img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40" height="40"/>
 	</a>
 	<a href="https://stackoverflow.com/users/16560826/asadmajeed">
-		<img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"/>
+		<img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="40" height="40"/>
 	</a>
 	
 
