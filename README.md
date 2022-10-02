@@ -9,6 +9,7 @@
 
 - 🔭 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studied Electrical Engineering at [Sukkur IBA University](https://iba-suk.edu.pk).
+- 💼 &nbsp; Working as Lab Engineer at [Namal University](https://www.namal.edu.pk/).
 - 💼 &nbsp; Working as Freelance Python Developer at [Fiverr](https://www.fiverr.com/asadmajeed98) and [UpWork](https://www.upwork.com/freelancers/~0174204136779fce74)
 - 💻 &nbsp; Coding is my hobby.
 - 💬 Ask me about **Python, Machine Learning, Data Science**
