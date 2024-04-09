@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Asad Majeed</h1>
 <h3 align="center">
-	A passionate Programmer and Machine Learning Engineer from Pakistan<br>
+	A passionate Python Developer and Machine Learning Engineer from Pakistan<br>
 </h3>
 
 <br>
@@ -8,8 +8,9 @@
 <h3> 👨 &nbsp;About Me </h3>
 
 - 🔭 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studied Electrical Engineering at [Sukkur IBA University](https://iba-suk.edu.pk).
-- 💼 &nbsp; Freelance Python Developer at [Fiverr](https://www.fiverr.com/asadmajeed98) and [UpWork](https://www.upwork.com/freelancers/~0174204136779fce74)
+- 🎓 &nbsp; Studied for a Bachelor in Electrical Engineering at [Sukkur IBA University](https://iba-suk.edu.pk)  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/SIBA_Logo.jpg" alt="siba" width="25" height="25"/>
+- 🎓 &nbsp; Studying for MS in Computer Engineering at [Ghulam Ishaq Khan Institute of Engineering Sciences (GIKI)](https://iba-suk.edu.pk) <img src="https://upload.wikimedia.org/wikipedia/en/8/8e/Ghulam_Ishaq_Khan_Institute_of_Engineering_Sciences_and_Technology_%28insignia%29.png" alt="giki" width="25" height="25"/>
+- 💼 &nbsp; Freelance Python Developer at [Fiverr](https://www.fiverr.com/asadmajeed98) (Level 2 Seller) and [UpWork](https://www.upwork.com/freelancers/~0174204136779fce74) (Top Rated Talent).  
 - 💻 &nbsp; Coding is my hobby.
 - 💬 Ask me about **Python, Machine Learning, Data Science**
 - 📫 How to reach me **syedasad.majeed@gmail.com**
@@ -98,6 +99,12 @@
 				<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 			</td>
 		</tr>
+	<tr>
+	<td>Web Scraping</td>
+			<td>
+				<a href="https://scrapy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Scrapy_logo.jpg" alt="scrapy" width="80" height="40"/> </a> 
+			</td>
+</tr>
 		<tr>
 			<td>Other</td>
 			<td>
@@ -126,5 +133,26 @@
 
 </p>
 
-> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
-> -- Steve Jobs
+```
+import this
+```
+	The Zen of Python, by Tim Peters
+	Beautiful is better than ugly.
+	Explicit is better than implicit.
+	Simple is better than complex.
+	Complex is better than complicated.
+	Flat is better than nested.
+	Sparse is better than dense.
+	Readability counts.
+	Special cases aren't special enough to break the rules.
+	Although practicality beats purity.
+	Errors should never pass silently.
+	Unless explicitly silenced.
+	In the face of ambiguity, refuse the temptation to guess.
+	There should be one-- and preferably only one --obvious way to do it.
+	Although that way may not be obvious at first unless you're Dutch.
+	Now is better than never.
+	Although never is often better than *right* now.
+	If the implementation is hard to explain, it's a bad idea.
+	If the implementation is easy to explain, it may be a good idea.
+	Namespaces are one honking great idea -- let's do more of those!
