@@ -106,6 +106,13 @@
 				<a href="https://scrapy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Scrapy_logo.jpg" alt="scrapy" width="80" height="40"/> </a> 
 			</td>
 </tr>
+	<tr>
+		<td>Cloud</td>
+		<td>
+			<a href="https://azure.microsoft.com/en-us/" target="_blank">
+				<img src="https://images.icon-icons.com/2699/PNG/512/microsoft_azure_logo_icon_168977.png" alt="azure" width="40" height="40"/> </a>
+		</td>
+	</tr>
 		<tr>
 			<td>Other</td>
 			<td>
@@ -120,7 +127,7 @@
 
 <h3> Connect with Me </h3>
 <p align="center">
-	<a href="https://www.linkedin.com/in/syedasad00/">
+	<a href="https://www.linkedin.com/in/asadmajeed01/">
 		<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="80" height="80"/>
 	</a>
 	<a href="https://stackoverflow.com/users/16560826/asadmajeed">
