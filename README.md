@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Asad Majeed</h1>
 <h3 align="center">
-	A passionate Python Developer and Machine Learning Engineer from Pakistan<br>
+	A passionate Software Developer from Pakistan<br>
 </h3>
 
 <br>
@@ -110,7 +110,7 @@
 		<td>Cloud</td>
 		<td>
 			<a href="https://azure.microsoft.com/en-us/" target="_blank">
-				<img src="https://images.icon-icons.com/2699/PNG/512/microsoft_azure_logo_icon_168977.png" alt="azure" width="40" height="40"/> </a>
+				<img src="https://images.icon-icons.com/2699/PNG/512/microsoft_azure_logo_icon_168977.png" alt="azure" width="70"/> </a>
 		</td>
 	</tr>
 		<tr>
