@@ -7,7 +7,7 @@
 
 <h3> 👨 &nbsp;About Me </h3>
 
-- 🌐 &nbsp; [Personal Website](https://www.asadmajeed.site)
+- 🌐 &nbsp; [Website](https://asad-be18.github.io/portfolio/)
 - 🔭 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studied for a Bachelor in Electrical Engineering at [Sukkur IBA University](https://iba-suk.edu.pk)  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/SIBA_Logo.jpg" alt="siba" width="25" height="25"/>
 - 🎓 &nbsp; Studied for MS in Computer Engineering at [Ghulam Ishaq Khan Institute of Engineering Sciences (GIKI)](https://iba-suk.edu.pk) <img src="https://upload.wikimedia.org/wikipedia/en/8/8e/Ghulam_Ishaq_Khan_Institute_of_Engineering_Sciences_and_Technology_%28insignia%29.png" alt="giki" width="25" height="25"/>
