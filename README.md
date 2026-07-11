@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Asad Majeed</h1>
 <h3 align="center">
-	A passionate Software Developer from Pakistan<br>
+	Full Stack AI Developer — building production RAG systems, AI agents, and the cloud platforms they run on<br>
 </h3>
 
 <br>
@@ -8,13 +8,13 @@
 <h3> 👨 &nbsp;About Me </h3>
 
 - 🌐 &nbsp; [Website](https://asad-be18.github.io/portfolio/)
-- 🔭 &nbsp; Exploring new technologies and developing software solutions.
+- 🔭 &nbsp; Building AI document intelligence pipelines, RAG gateways, MCP servers, and LLM observability platforms on Azure.
 - 🎓 &nbsp; Studied for a Bachelor in Electrical Engineering at [Sukkur IBA University](https://iba-suk.edu.pk)  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/SIBA_Logo.jpg" alt="siba" width="25" height="25"/>
 - 🎓 &nbsp; Studied for MS in Computer Engineering at [Ghulam Ishaq Khan Institute of Engineering Sciences (GIKI)](https://iba-suk.edu.pk) <img src="https://upload.wikimedia.org/wikipedia/en/8/8e/Ghulam_Ishaq_Khan_Institute_of_Engineering_Sciences_and_Technology_%28insignia%29.png" alt="giki" width="25" height="25"/>
-- 💼 &nbsp; Full Stack Developer at [Deepixel LLC](https://deepixel.net).  
-- 💼 &nbsp; Freelance Python Developer at [Fiverr](https://www.fiverr.com/asadmajeed98) (Level 2 Seller) and [UpWork](https://www.upwork.com/freelancers/~0174204136779fce74) (Top Rated Talent).  
+- 💼 &nbsp; Full Stack AI Developer at [Deepixel LLC](https://deepixel.net).  
+- 💼 &nbsp; Previously freelance Python Developer at [Fiverr](https://www.fiverr.com/asadmajeed98) (Level 2 Seller) and [UpWork](https://www.upwork.com/freelancers/~0174204136779fce74) (Top Rated Talent).  
 - 💻 &nbsp; Coding is my hobby.
-- 💬 Ask me about **Python, Machine Learning, Data Science**
+- 💬 Ask me about **RAG, LLM agents, MCP, Azure AI, Python**
 
 <br/>
 <br/>
@@ -56,6 +56,18 @@
 				<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 				<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 				<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+			</td>
+		</tr>
+		<tr>
+			<td>AI / LLM Engineering</td>
+			<td>
+				RAG (Azure AI Search hybrid retrieval) &middot; LangGraph agents &middot; MCP servers &middot; Azure OpenAI &middot; Azure Document Intelligence &middot; Langfuse / OpenTelemetry observability &middot; Whisper
+			</td>
+		</tr>
+		<tr>
+			<td>Cloud &amp; DevOps</td>
+			<td>
+				Azure (AKS, Functions, ACI, ACR, Service Bus, Key Vault) &middot; Kubernetes &amp; Helm &middot; Docker &middot; GitHub Actions (OIDC) &middot; Terraform
 			</td>
 		</tr>
 		<tr>
