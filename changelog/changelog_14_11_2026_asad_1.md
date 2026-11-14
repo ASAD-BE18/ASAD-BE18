@@ -9,6 +9,7 @@
 - The LinkedIn link pointed to an old address. It now points to the current profile.
 - The portfolio link works again (the site is live at https://asad-be18.github.io/portfolio/).
 - Removed the "Zen of Python" block and images loaded from third-party sites.
+- The stack table lists only tools backed by real project work. Terraform and Helm are not on it.
 
 ## Why it matters
 
