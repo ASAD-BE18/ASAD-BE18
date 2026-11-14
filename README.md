@@ -63,7 +63,7 @@ Most of this work lives in private repositories.
 | **AI and LLM** | RAG, MCP, LangGraph, Azure OpenAI, Azure AI Search, Azure Document Intelligence, Langfuse, whisper.cpp |
 | **Backend** | Python, FastAPI, PostgreSQL, MySQL |
 | **Frontend and desktop** | TypeScript, React, Next.js, Rust, Tauri |
-| **Cloud and DevOps** | Azure (Functions, Container Apps, AKS), Docker, GitHub Actions |
+| **Cloud and DevOps** | Azure (Functions, Container Apps), Docker, GitHub Actions |
 
 ## Background
 
