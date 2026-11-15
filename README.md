@@ -23,7 +23,7 @@ I work with AsbiTech in Dubai through Deepixel. I build the AI layer of Invictus
 | **Agents and MCP** | Built the first Deals MCP server: read-only tools that let AI agents query deal data according to each user's organisation and role. |
 | **RAG and document intelligence** | Led the implementation of a RAG gateway that answers questions and extracts structured fields from financial documents. Extraction accuracy went from 60.4% to 73.6% against a golden dataset. |
 | **LLM observability** | Maintain a self-hosted fork of Langfuse on private Kubernetes clusters, with keyless deployment pipelines. |
-| **On-device AI** | Build a privacy-first desktop meeting assistant in Rust and Tauri. Transcription and speaker identification run on the user's own laptop. |
+| **On-device AI** | Build a privacy-first desktop meeting assistant in Rust and Tauri, a fork of the open-source Meetily. Transcription and speaker diarization run on the user's own laptop. |
 
 Most of this work lives in private repositories.
 
