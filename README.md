@@ -12,7 +12,7 @@ I work with AsbiTech in Dubai through Deepixel. I build the AI layer of Invictus
 
 <p>
   <a href="https://asadmajeed7.github.io/"><img src="assets/btn-portfolio.svg" height="34" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/syedasadmajeed"><img src="assets/btn-linkedin.svg" height="34" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/asadmajeed7"><img src="assets/btn-linkedin.svg" height="34" alt="LinkedIn"></a>
   <a href="https://scholar.google.com/citations?user=ecKCHfgAAAAJ&hl=en"><img src="assets/btn-scholar.svg" height="34" alt="Google Scholar"></a>
 </p>
 
