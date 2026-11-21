@@ -11,7 +11,7 @@ I build and deploy LLM agents and RAG systems inside enterprise clients' own clo
 I work with AsbiTech in Dubai through Deepixel. I build the AI layer of Invictus, a wealth-management suite, and work as a Forward Deployed Engineer with an enterprise asset management client.
 
 <p>
-  <a href="https://asad-be18.github.io/portfolio/"><img src="assets/btn-portfolio.svg" height="34" alt="Portfolio"></a>
+  <a href="https://asadmajeed7.github.io/"><img src="assets/btn-portfolio.svg" height="34" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/syedasadmajeed"><img src="assets/btn-linkedin.svg" height="34" alt="LinkedIn"></a>
   <a href="https://scholar.google.com/citations?user=ecKCHfgAAAAJ&hl=en"><img src="assets/btn-scholar.svg" height="34" alt="Google Scholar"></a>
 </p>
@@ -32,19 +32,19 @@ Most of this work lives in private repositories.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ASAD-BE18/solar-heat-guard">SolarGuard</a></h3>
+      <h3><a href="https://github.com/asadmajeed7/solar-heat-guard">SolarGuard</a></h3>
       <p>FortyGuard Hackathon'26, built with Mariam Qusai. Ranks every stretch of every solar panel row by heat exposure, so an operator knows where to look first.</p>
-      <p><a href="https://asad-be18.github.io/solar-heat-guard/">Live map</a> · <code>Python</code> <code>GeoJSON</code> <code>Leaflet</code></p>
+      <p><a href="https://asadmajeed7.github.io/solar-heat-guard/">Live map</a> · <code>Python</code> <code>GeoJSON</code> <code>Leaflet</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ASAD-BE18/LLM-Series">RAG from scratch</a></h3>
+      <h3><a href="https://github.com/asadmajeed7/LLM-Series">RAG from scratch</a></h3>
       <p>A runnable Colab notebook: a small end-to-end RAG example with a local model and a vector store. No API keys needed.</p>
       <p><code>Python</code> <code>LangChain</code> <code>Chroma</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ASAD-BE18/agritwin">AgriTwin</a></h3>
+      <h3><a href="https://github.com/asadmajeed7/agritwin">AgriTwin</a></h3>
       <p>Team capstone for the CATCH_VR Summer School 2026: a small IoT greenhouse rig with a live digital twin and an LLM chat on top. I built the FastAPI backend and the MCP server.</p>
       <p><code>FastAPI</code> <code>MCP</code> <code>Arduino</code></p>
     </td>
